@@ -1,0 +1,32 @@
+import pyttsx3
+
+engine = pyttsx3.init()
+engine.setProperty('rate', 130)
+engine.say("""The kingdom of Elarion had always been a land of contrasts, where golden fields of wheat stretched as far as the eye could see, meeting jagged mountains that pierced the sky like ancient spears. Villagers whispered tales of magic lingering in the mist that rolled down from the peaks each morning. Some believed that the forests of Elarion were alive, sentient, and protective of secrets older than the kings themselves. It was in this land, on the cusp of a long-forgotten prophecy, that a young girl named Lyra would begin her journey.
+
+Lyra’s village, Galdemere, was modest, nestled in a green valley shielded by the Forest of Whispers. Its houses were crafted from sturdy oak beams and clay walls, and smoke spiraled from chimneys like gentle ghosts ascending toward the heavens. Lyra’s father, a skilled blacksmith, worked tirelessly to shape metal into tools and armor, while her mother tended to the garden and taught her the ancient lore passed down through generations. Lyra, though only fifteen, was known throughout the village for her boundless curiosity and sharp intellect. She had a habit of wandering beyond the safety of the village borders, following the songs of birds or the glimmer of sunlight on the river, and her mother often scolded her, fearful of the dangers that lay hidden in the forest.
+
+One morning, Lyra awoke to the sound of a horn echoing through the valley. It was unusual, for the village rarely heard such signals except during festivals or emergencies. Her mother, knitting by the window, frowned. “That horn,” she muttered, “it carries a warning.” Without another word, she hurriedly packed provisions and instructed Lyra to stay home. But Lyra’s spirit could not be tamed. She slipped on her boots, tied her long, chestnut hair in a braid, and quietly left the house, her heart pounding with anticipation and dread.
+
+Following the horn’s sound, she climbed a ridge overlooking the eastern forest. What she saw made her gasp: a great shadow, like a living storm, rolling across the mountains. Dark clouds swirled unnaturally, and at their center, a figure on a black steed galloped with terrifying speed. The figure wore a cloak that seemed to devour light, and in its hand, a staff pulsed with a sickly green energy that made the air hum with tension. Villagers began to emerge from their homes, their faces pale with fear, whispering of an ancient curse—the return of the Dark One, whose reign of terror had ended a century ago.
+
+Lyra knew instinctively that she could not stand by. She raced down the ridge, past her mother calling her name, and toward the village square where the elders gathered in fear. “It is him,” murmured Elder Armand, a wizened man whose beard was streaked with silver. “The prophecy… it begins again. We are not prepared.”
+
+“Prepared or not,” Lyra said, her voice steady despite the tremor in her heart, “we cannot let him take the realm. We have to act.”
+
+The elders exchanged uneasy glances. “You, child?” Armand asked. “Do you know the dangers? The Dark One wields power beyond comprehension.”
+
+“I know enough,” Lyra replied. “I’ve read the old scrolls. I can find the Amulet of Serath, the only weapon that can counter his magic.”
+
+A murmur ran through the crowd. The Amulet of Serath was legend, said to be forged by the first king of Elarion with the help of the forest spirits. It was hidden long ago, its location known only to the ancient guardians, and many believed it no longer existed. Yet Lyra’s determination was palpable. The elders, sensing the fire in her, gave her a small satchel of supplies and a map marked with cryptic symbols. “Follow the signs,” Armand instructed. “And beware the trials.”
+
+Lyra’s journey began at dawn. She traversed the forest, the mist curling around her like a living cloak. The trees seemed to watch her every step, their branches creaking with whispered warnings. Soon, she encountered her first trial: the River of Mirrors, a wide expanse of water whose surface reflected not only her image but also her deepest fears. As she gazed into it, she saw visions of failure—villagers crying, the Dark One triumphant, herself powerless. Her legs threatened to give way, and the water called to her with a voice soft yet insistent, promising escape from responsibility.
+
+Lyra shook her head. “No,” she said aloud. “I am not afraid.” Taking a deep breath, she reached into the river and stepped forward. Each step sank into the water but did not pull her under. The reflections shimmered and warped, trying to distract her, but her resolve was stronger than any illusion. On the far side, she emerged, soaked but triumphant, knowing that the first test had only strengthened her courage.
+
+The next days were a blur of challenges and revelations. She climbed the Frostpeak Mountains, where blizzards threatened to bury her alive, guided only by the faint light of the stars. In the Shattered Canyons, she faced illusions conjured by her own mind—echoes of loved ones calling her to abandon her quest, tempting her to turn back. Each time, she remembered her village, her family, and the prophecy that called her to action. Along the way, she discovered a hidden gift: the ability to sense energy, to perceive the threads of magic in the world. This gift allowed her to navigate dangers that would have been impossible to overcome otherwise.
+
+One evening, deep in the Valley of Shadows, Lyra encountered a creature both terrifying and beautiful—a silver wolf with eyes like molten gold. It did not attack, yet it did not retreat. Lyra instinctively bowed. “I mean no harm,” she whispered. The wolf regarded her silently, then stepped aside, revealing a hidden cave. Inside, the walls were covered with ancient runes, glowing faintly with a light that seemed alive. At the center lay the Amulet of Serath, resting on a pedestal of black stone.
+
+As she reached for it, a voice echoed in the chamber. “Only the worthy may claim the amulet,” it said. Lyra’s hand trembled. “I am ready,” she said. The amulet pulsed as if testing her heart, then leapt into her hand, warm and alive. She felt its energy coursing through her veins, a balanc""")
+engine.runAndWait()
